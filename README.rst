@@ -1,1 +1,2 @@
-# CTFO-wiki
+CTFO wiki of truth
+Test
