@@ -12,7 +12,7 @@ Welcome to the official CTFO documentation!
 
 
 
-Indices and tables
+Indices and tables of Contents
 ==================
 
 * :ref:`genindex`
