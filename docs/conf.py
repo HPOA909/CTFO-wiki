@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'CTFO'
-copyright = '2022, HPOA909'
-author = 'HPOA909'
+copyright = '2022, Project Freeedom XXX'
+author = 'Project Freedom XXX'
 
 
 # -- General configuration ---------------------------------------------------
