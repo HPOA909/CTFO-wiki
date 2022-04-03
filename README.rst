@@ -1,2 +1,5 @@
 CTFO wiki of truth
-Test
+.. image:: https://readthedocs.org/projects/ctfo-wiki/badge/?version=latest
+:target: https://ctfo-wiki.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
+      
